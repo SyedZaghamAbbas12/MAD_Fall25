@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Restaurant App",
+    "slug": "restaurant-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "ios", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
